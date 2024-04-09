@@ -1,0 +1,60 @@
+nav{
+    background: indianred;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40%;
+    font-family
+}
+a.menu{
+    color: white;
+    text-decoration:none;
+    padding: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+a.menu:hover{
+    color:darkslategrey;
+    background: crimson;
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body{
+    margin: 0px;
+
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+portfolio.robo{
+    padding-left: 36%;
+}
+
+div#prof{
+    padding-left: 550px;
+    padding-top: 50px;
+    width: 200px;
+    display: inline-block;
+    margin-left:12%;
+
+}
+div#bio{
+    padding-top: 100px;
+    width:300px;
+    display: inline-block;
+    margin-left: 5%;
+
+
+}
+
+section#portfolio{
+    text-align: center;
+    background-color: darksalmon;
+}
+
